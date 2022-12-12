@@ -1,4 +1,6 @@
 /*
+Link for the challenge: https://codeforces.com/contest/1766/problem/A
+
 Let's call a positive integer extremely round if it has only one non-zero digit. For example, 5000, 4, 1, 10, 200 are extremely round integers; 42, 13, 666, 77, 101 are not.
 
 You are given an integer n. You have to calculate the number of extremely round integers x such that 1 ≤ x ≤ n.
