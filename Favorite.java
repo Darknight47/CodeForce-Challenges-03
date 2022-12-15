@@ -1,6 +1,6 @@
-import java.util.Scanner;
+/*
+* Link for the challenge: https://codeforces.com/problemset/problem/1760/B
 
-/**
 In order to write a string, Atilla needs to first learn all letters that are contained in the string.
 
 Atilla needs to write a message which can be represented as a string s. He asks you what is the minimum alphabet size required so that one can write this message.
@@ -39,6 +39,8 @@ Output:
 
 
 */
+
+import java.util.Scanner;
 
 public class Favorite {
     public static void main(String[] args) {
