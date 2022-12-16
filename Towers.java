@@ -1,4 +1,5 @@
-/**
+/*
+* -------------------------- 1767 B -----------------------------
 * There are n block towers, numbered from 1 to n. The i-th tower consists of ai blocks.
 
 In one move, you can move one block from tower i to tower j, but only if a(i) > a(j).
