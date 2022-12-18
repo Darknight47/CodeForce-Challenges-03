@@ -15,6 +15,20 @@ The second line of each test case contains a string a of length n, consisting of
 Output
 For each test case, output a string of length n−1 consisting of − and + on a separate line.
 If there is more than one assignment of signs that produces the smallest possible absolute value, any of them is accepted.
+
+Input:
+3
+2
+11
+5
+01101
+5
+10001
+
+Output:
+-
++-++
++++-
 */
 
 import java.util.Scanner;
