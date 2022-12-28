@@ -19,6 +19,12 @@ The second line contains a string s consisting of exactly n lowercase Latin lett
 
 Output
 Output the word s after the correction.
+
+Input:
+5
+weird
+Output:
+werd
 */
 import java.util.ArrayList;
 import java.util.Arrays;
