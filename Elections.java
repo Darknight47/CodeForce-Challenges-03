@@ -1,4 +1,6 @@
 /*
+-------------------- Link for the challenge: https://codeforces.com/problemset/problem/1043/A ------------
+
 Awruk is taking part in elections in his school. It is the final round. He has only one opponent — Elodreip.
 The are n students in the school. Each student has exactly k votes and is obligated to use all of them.
 So Awruk knows that if a person gives ai votes for Elodreip, than he will get exactly k−a(i) votes from this person.
