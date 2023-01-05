@@ -15,6 +15,12 @@ It is preferred to use the cin, cout streams or the %I64d specifier.
 
 Output
 Print the number that will stand at the position number k after Volodya's manipulations.
+
+Input:
+10 3
+
+Output:
+5
 */
 import java.util.Scanner;
 
