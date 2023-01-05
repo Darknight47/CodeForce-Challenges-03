@@ -1,4 +1,6 @@
 /*
+-------------------- Link for the challenge: https://codeforces.com/problemset/problem/46/A -----------
+
 A kindergarten teacher Natalia Pavlovna has invented a new ball game. This game not only develops the children's physique, but also teaches them how to count.
 
 The game goes as follows. Kids stand in circle. Let's agree to think of the children as numbered with numbers from 1 to n clockwise and the child number 1
@@ -16,6 +18,12 @@ The first line contains integer n (2 ≤ n ≤ 100) which indicates the 
 
 Output
 In the single line print n - 1 numbers which are the numbers of children who will get the ball after each throw. Separate the numbers by spaces.
+
+Input:
+10
+Output:
+2 4 7 1 6 2 9 7 6
+
 */
 import java.util.Scanner;
 
