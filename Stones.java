@@ -14,6 +14,13 @@ If Vasya took the stone on i-th operation, s(i) is equal to "-" (without quotes)
 
 Output
 Print one integer — the minimal possible number of stones that can be in the pile after these n operations.
+
+Input:
+3
+---
+
+Output:
+0
 */
 import java.util.Scanner;
 
