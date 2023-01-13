@@ -1,4 +1,6 @@
 /*
+------------ Link for the challenge: https://codeforces.com/problemset/problem/363/A ---------
+ 
 Soroban consists of some number of rods, each rod contains five beads. We will assume that the rods are horizontal lines.
 One bead on each rod (the leftmost one) is divided from the others by a bar (the reckoning bar).
 This single bead is called go-dama and four others are ichi-damas. Each rod is responsible for representing
@@ -20,6 +22,12 @@ Print the description of the decimal digits of number n from the last one to the
 (as mentioned on the picture in the statement), one per line. Print the beads as large English letters 'O',
 rod pieces as character '-' and the reckoning bar as '|'. Print as many rods, as many digits are in the decimal
 representation of number n without leading zeroes. We can assume that number 0 has no leading zeroes.
+
+Input:
+2
+Output:
+O-|OO-OO
+
 */
 import java.util.Scanner;
 
